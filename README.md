@@ -1,5 +1,5 @@
 # 📘 EduGrade: Retrieval-Augmented Short-Answer Grading
-> End-to-end system for retrieving scientific context, generating reference answers, and grading student short responses with a RoBERTa classifier.
+End-to-end system for retrieving scientific context, generating reference answers, and grading student short responses with a RoBERTa classifier.
 
 Project structure includes:
 - `final_project.ipynb` — complete pipeline  
@@ -12,7 +12,7 @@ Project structure includes:
 
 The simplest way to run the project is **Google Colab**, since all paths in the notebook are already configured for Colab execution.
 
-If running locally, update the file paths at the top of the notebook.
+If running locally, update the file paths in the notebook.
 
 ### Requirements
 - Python 3.9+
